@@ -1,0 +1,23 @@
+{
+  "name": "exemplo-node",
+  "version": "1.0.0",
+  "description": "Primeiro exemplo em NODEJS - CURSO MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phfernandes14/exemplo-node.git"
+  },
+  "keywords": [
+    "node",
+    "git"
+  ],
+  "author": "Pedro Fernandes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phfernandes14/exemplo-node/issues"
+  },
+  "homepage": "https://github.com/phfernandes14/exemplo-node#readme"
+}
